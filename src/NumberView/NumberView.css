@@ -1,0 +1,3 @@
+.NumberView .MuiPaper-root > *:not(:last-child) {
+  margin-bottom: 8px;
+}
